@@ -146,7 +146,7 @@ Matchday 10
 
 [Sat. 26.09.]
   Anzhi               -  Ufa
-  CSKA                -  Lokomotiv
+  CSKA                1-1  Lokomotiv
   Spartak             -  Zenit
 [Sun. 27.09.]
   Krylia Sovetov      -  Dinamo
@@ -174,9 +174,8 @@ Matchday 11
 
 Matchday 12
 
-[Fri. 16.10.]
-  Kuban               -  Zenit
 [Sat. 17.10.]
+  Kuban               -  Zenit
   Rubin               -  Ufa
   CSKA                -  Ural
   Amkar               -  Dinamo
@@ -209,12 +208,12 @@ Matchday 14
 []
   Spartak             -  Ural
   Amkar               -  Terek
-  Krylia Sovetov      -  Krasnodar
   Zenit               -  Mordovia
+  Krylia Sovetov      -  Krasnodar
   Rostov              -  Dinamo
-  Kuban               -  Lokomotiv
-  CSKA                -  Ufa
   Anzhi               -  Rubin
+  CSKA                -  Ufa
+  Kuban               -  Lokomotiv
 
 
 Matchday 15
