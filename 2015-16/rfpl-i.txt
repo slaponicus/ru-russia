@@ -150,7 +150,7 @@ Matchday 10
   Spartak             2-2  Zenit
 [Sun. 27.09.]
   Krylia Sovetov      0-0  Dinamo
-  Krasnodar           -  Terek
+  Krasnodar           1-1  Terek
   Rubin               -  Ural
 [Mon. 28.09.]
   Amkar               -  Mordovia
@@ -208,12 +208,12 @@ Matchday 14
 []
   Spartak             -  Ural
   Amkar               -  Terek
-  Zenit               -  Mordovia
   Krylia Sovetov      -  Krasnodar
+  Zenit               -  Mordovia
   Rostov              -  Dinamo
-  Anzhi               -  Rubin
-  CSKA                -  Ufa
   Kuban               -  Lokomotiv
+  CSKA                -  Ufa
+  Anzhi               -  Rubin
 
 
 Matchday 15
