@@ -154,7 +154,7 @@ Matchday 10
   Rubin               1-2  Ural
 [Mon. 28.09.]
   Amkar               2-1  Mordovia
-  Rostov              -  Kuban
+  Rostov              2-1  Kuban
 
 
 Matchday 11
@@ -210,9 +210,9 @@ Matchday 14
   Amkar               -  Terek
   Zenit               -  Mordovia
   Krylia Sovetov      -  Krasnodar
-  Rostov              -  Dinamo
-  Anzhi               -  Rubin
   CSKA                -  Ufa
+  Anzhi               -  Rubin
+  Rostov              -  Dinamo
   Kuban               -  Lokomotiv
 
 
