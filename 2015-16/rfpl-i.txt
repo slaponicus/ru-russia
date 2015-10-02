@@ -160,7 +160,7 @@ Matchday 10
 Matchday 11
 
 [Fri. 02.10.]
-  Ural                -  Krylia Sovetov
+  Ural                1-1  Krylia Sovetov
 [Sat. 03.10.]
   Mordovia            -  Spartak
   Zenit               -  Rostov
@@ -193,13 +193,13 @@ Matchday 13
   Ufa                 -  Krylia Sovetov
 [Sat. 24.10.]
   Zenit               -  Anzhi
+  Ural                -  Amkar
   Mordovia            -  Kuban
 [Sun. 25.10.]
   Dinamo              -  Spartak
   Terek               -  CSKA
   Krasnodar           -  Rubin
 [Mon. 26.10.]
-  Ural                -  Amkar
   Lokomotiv           -  Rostov
 
 
