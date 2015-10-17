@@ -5,37 +5,43 @@ Matchday 16
 [Sat. 21.11.]
   CSKA                -  Krylia Sovetov
   Zenit               -  Ural
-  Mordovia            -  Dinamo
   Lokomotiv           -  Anzhi
   Amkar               -  Rubin
+[Sun. 22.11.]
+  Mordovia            -  Dinamo
   Spartak             -  Krasnodar
-  Rostov              -  Ufa
   Kuban               -  Terek
+[Mon. 23.11.]
+  Rostov              -  Ufa
 
 
 Matchday 17
 
-[]
-  Anzhi               -  CSKA
+[Fri. 27.11.]
+  Ural                -  Mordovia
+[Sat. 28.11.]
   Krylia Sovetov      -  Amkar
-  Rubin               -  Spartak
-  Krasnodar           -  Rostov
   Ufa                 -  Kuban
   Terek               -  Zenit
-  Ural                -  Mordovia
+[Sun. 29.11.]
+  Anzhi               -  CSKA
+  Krasnodar           -  Rostov
+[Mon. 30.11.]
+  Rubin               -  Spartak
   Dinamo              -  Lokomotiv
 
 
 Matchday 18
 
-[]
-  Kuban               -  Krasnodar
+[Thu. 03.12.]
   Zenit               -  Ufa
-  Lokomotiv           -  Ural
+  Kuban               -  Krasnodar
   Mordovia            -  Terek
+  Amkar               -  CSKA
+[Fri. 04.12.]
+  Lokomotiv           -  Ural
   Dinamo              -  Anzhi
   Rostov              -  Rubin
-  Amkar               -  CSKA
   Spartak             -  Krylia Sovetov
 
 
@@ -43,13 +49,13 @@ Matchday 19
 
 []
   Ufa                 -  Mordovia
-  CSKA                -  Spartak
-  Ural                -  Dinamo
+  Terek               -  Lokomotiv
+  Anzhi               -  Amkar
   Rubin               -  Kuban
   Krylia Sovetov      -  Rostov
-  Terek               -  Lokomotiv
+  CSKA                -  Spartak
   Krasnodar           -  Zenit
-  Anzhi               -  Amkar
+  Ural                -  Dinamo
 
 
 Matchday 20
@@ -133,8 +139,8 @@ Matchday 25
 Matchday 26
 
 []
-  Zenit               -  Kuban
   Terek               -  Krylia Sovetov
+  Zenit               -  Kuban
   Dinamo              -  Amkar
   Ural                -  CSKA
   Krasnodar           -  Anzhi

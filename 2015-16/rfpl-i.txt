@@ -177,7 +177,7 @@ Matchday 12
 [Sat. 17.10.]
   Kuban               -  Zenit
   Rubin               -  Ufa
-  CSKA                -  Ural
+  CSKA                3-2  Ural
   Amkar               -  Dinamo
 [Sun. 18.10.]
   Spartak             -  Lokomotiv
@@ -205,25 +205,29 @@ Matchday 13
 
 Matchday 14
 
-[]
-  Spartak             -  Ural
-  Amkar               -  Terek
+[Sat. 31.10.]
   Zenit               -  Mordovia
-  Krylia Sovetov      -  Krasnodar
   CSKA                -  Ufa
-  Anzhi               -  Rubin
-  Rostov              -  Dinamo
+[Sun. 01.11.]
+  Spartak             -  Ural
+  Krylia Sovetov      -  Krasnodar
   Kuban               -  Lokomotiv
+  Anzhi               -  Rubin
+[Mon. 02.11.]
+  Amkar               -  Terek
+  Rostov              -  Dinamo
 
 
 Matchday 15
 
-[]
+[Fri. 06.11.]
+  Mordovia            -  Anzhi
+[Sat. 07.11.]
   Ufa                 -  Amkar
-  Krasnodar           -  CSKA
   Ural                -  Rostov
   Terek               -  Spartak
-  Lokomotiv           -  Zenit
   Dinamo              -  Kuban
-  Mordovia            -  Anzhi
+[Sun. 08.11.]
+  Krasnodar           -  CSKA
+  Lokomotiv           -  Zenit
   Rubin               -  Krylia Sovetov
