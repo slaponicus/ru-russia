@@ -211,8 +211,8 @@ Matchday 14
 [Sun. 01.11.]
   Spartak             -  Ural
   Krylia Sovetov      0-4  Krasnodar
-  Kuban               -  Lokomotiv
-  Anzhi               0-2  Rubin
+  Kuban               5-1  Lokomotiv
+  Anzhi               1-2  Rubin
 [Mon. 02.11.]
   Amkar               -  Terek
   Rostov              -  Dinamo
