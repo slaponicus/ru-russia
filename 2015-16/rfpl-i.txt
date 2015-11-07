@@ -223,10 +223,10 @@ Matchday 15
 [Fri. 06.11.]
   Mordovia            4-0  Anzhi
 [Sat. 07.11.]
-  Ufa                 1-1  Amkar
+  Ufa                 2-1  Amkar
   Ural                1-2  Rostov
-  Terek               -  Spartak
-  Dinamo              -  Kuban
+  Terek               1-1  Spartak
+  Dinamo              2-1  Kuban
 [Sun. 08.11.]
   Krasnodar           -  CSKA
   Lokomotiv           -  Zenit

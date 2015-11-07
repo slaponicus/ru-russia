@@ -38,8 +38,8 @@ Matchday 18
   Mordovia            -  Terek
   Amkar               -  CSKA
 [Fri. 04.12.]
-  Kuban               -  Krasnodar
   Lokomotiv           -  Ural
+  Kuban               -  Krasnodar
   Dinamo              -  Anzhi
   Rostov              -  Rubin
   Spartak             -  Krylia Sovetov
@@ -139,8 +139,8 @@ Matchday 25
 Matchday 26
 
 []
-  Zenit               -  Kuban
   Terek               -  Krylia Sovetov
+  Zenit               -  Kuban
   Dinamo              -  Amkar
   Ural                -  CSKA
   Krasnodar           -  Anzhi
