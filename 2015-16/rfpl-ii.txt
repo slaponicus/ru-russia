@@ -38,8 +38,8 @@ Matchday 18
   Mordovia            -  Terek
   Amkar               -  CSKA
 [Fri. 04.12.]
-  Lokomotiv           -  Ural
   Kuban               -  Krasnodar
+  Lokomotiv           -  Ural
   Dinamo              -  Anzhi
   Rostov              -  Rubin
   Spartak             -  Krylia Sovetov
@@ -48,14 +48,14 @@ Matchday 18
 Matchday 19
 
 []
-  Ufa                 -  Mordovia
+  Krylia Sovetov      -  Rostov
   CSKA                -  Spartak
   Ural                -  Dinamo
-  Anzhi               -  Amkar
-  Krylia Sovetov      -  Rostov
+  Ufa                 -  Mordovia
   Terek               -  Lokomotiv
   Krasnodar           -  Zenit
   Rubin               -  Kuban
+  Anzhi               -  Amkar
 
 
 Matchday 20
