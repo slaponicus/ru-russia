@@ -25,9 +25,9 @@ Matchday 17
   Terek               -  Zenit
 [Sun. 29.11.]
   Anzhi               -  CSKA
-  Krasnodar           -  Rostov
 [Mon. 30.11.]
   Rubin               -  Spartak
+  Krasnodar           -  Rostov
   Dinamo              -  Lokomotiv
 
 
@@ -35,10 +35,10 @@ Matchday 18
 
 [Thu. 03.12.]
   Zenit               -  Ufa
-  Kuban               -  Krasnodar
   Mordovia            -  Terek
   Amkar               -  CSKA
 [Fri. 04.12.]
+  Kuban               -  Krasnodar
   Lokomotiv           -  Ural
   Dinamo              -  Anzhi
   Rostov              -  Rubin
