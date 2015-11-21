@@ -3,10 +3,10 @@
 Matchday 16
 
 [Sat. 21.11.]
-  CSKA                -  Krylia Sovetov
+  CSKA                0-2  Krylia Sovetov
   Zenit               -  Ural
   Lokomotiv           -  Anzhi
-  Amkar               -  Rubin
+  Amkar               1-2  Rubin
 [Sun. 22.11.]
   Mordovia            -  Dinamo
   Spartak             -  Krasnodar
@@ -50,12 +50,12 @@ Matchday 19
 []
   Ufa                 -  Mordovia
   Terek               -  Lokomotiv
-  Anzhi               -  Amkar
+  Ural                -  Dinamo
   Rubin               -  Kuban
   Krylia Sovetov      -  Rostov
   CSKA                -  Spartak
   Krasnodar           -  Zenit
-  Ural                -  Dinamo
+  Anzhi               -  Amkar
 
 
 Matchday 20
