@@ -9,7 +9,7 @@ Matchday 16
   Amkar               1-2  Rubin
 [Sun. 22.11.]
   Mordovia            1-1  Dinamo
-  Spartak             3-1  Krasnodar
+  Spartak             3-2  Krasnodar
   Kuban               2-2  Terek
 [Mon. 23.11.]
   Rostov              -  Ufa
@@ -38,8 +38,8 @@ Matchday 18
   Mordovia            -  Terek
   Amkar               -  CSKA
 [Fri. 04.12.]
-  Lokomotiv           -  Ural
   Kuban               -  Krasnodar
+  Lokomotiv           -  Ural
   Dinamo              -  Anzhi
   Rostov              -  Rubin
   Spartak             -  Krylia Sovetov
