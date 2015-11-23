@@ -12,7 +12,7 @@ Matchday 16
   Spartak             3-2  Krasnodar
   Kuban               2-2  Terek
 [Mon. 23.11.]
-  Rostov              -  Ufa
+  Rostov              1-1  Ufa
 
 
 Matchday 17
@@ -48,13 +48,13 @@ Matchday 18
 Matchday 19
 
 []
-  Ufa                 -  Mordovia
+  Krylia Sovetov      -  Rostov
   CSKA                -  Spartak
   Ural                -  Dinamo
-  Rubin               -  Kuban
-  Krylia Sovetov      -  Rostov
+  Ufa                 -  Mordovia
   Terek               -  Lokomotiv
   Krasnodar           -  Zenit
+  Rubin               -  Kuban
   Anzhi               -  Amkar
 
 
