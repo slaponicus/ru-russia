@@ -20,8 +20,8 @@ Matchday 17
 [Fri. 27.11.]
   Ural                3-1  Mordovia
 [Sat. 28.11.]
-  Krylia Sovetov      -  Amkar
-  Ufa                 -  Kuban
+  Krylia Sovetov      0-0  Amkar
+  Ufa                 2-2  Kuban
   Terek               -  Zenit
 [Sun. 29.11.]
   Anzhi               -  CSKA
@@ -38,8 +38,8 @@ Matchday 18
   Mordovia            -  Terek
   Amkar               -  CSKA
 [Fri. 04.12.]
-  Kuban               -  Krasnodar
   Lokomotiv           -  Ural
+  Kuban               -  Krasnodar
   Dinamo              -  Anzhi
   Rostov              -  Rubin
   Spartak             -  Krylia Sovetov
@@ -48,14 +48,14 @@ Matchday 18
 Matchday 19
 
 []
-  Krylia Sovetov      -  Rostov
+  Ufa                 -  Mordovia
   CSKA                -  Spartak
   Ural                -  Dinamo
-  Ufa                 -  Mordovia
+  Anzhi               -  Amkar
+  Krylia Sovetov      -  Rostov
   Terek               -  Lokomotiv
   Krasnodar           -  Zenit
   Rubin               -  Kuban
-  Anzhi               -  Amkar
 
 
 Matchday 20
@@ -139,8 +139,8 @@ Matchday 25
 Matchday 26
 
 []
-  Terek               -  Krylia Sovetov
   Zenit               -  Kuban
+  Terek               -  Krylia Sovetov
   Dinamo              -  Amkar
   Ural                -  CSKA
   Krasnodar           -  Anzhi
