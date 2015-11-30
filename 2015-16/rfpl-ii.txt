@@ -26,9 +26,9 @@ Matchday 17
 [Sun. 29.11.]
   Anzhi               1-1  CSKA
 [Mon. 30.11.]
-  Rubin               -  Spartak
-  Krasnodar           -  Rostov
-  Dinamo              -  Lokomotiv
+  Rubin               2-2  Spartak
+  Krasnodar           2-1  Rostov
+  Dinamo              2-2  Lokomotiv
 
 
 Matchday 18
@@ -48,13 +48,13 @@ Matchday 18
 Matchday 19
 
 []
-  Krylia Sovetov      -  Rostov
+  Ufa                 -  Mordovia
   CSKA                -  Spartak
   Ural                -  Dinamo
-  Ufa                 -  Mordovia
+  Rubin               -  Kuban
+  Krylia Sovetov      -  Rostov
   Terek               -  Lokomotiv
   Krasnodar           -  Zenit
-  Rubin               -  Kuban
   Anzhi               -  Amkar
 
 
