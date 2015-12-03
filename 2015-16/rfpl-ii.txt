@@ -34,9 +34,9 @@ Matchday 17
 Matchday 18
 
 [Thu. 03.12.]
-  Zenit               -  Ufa
-  Mordovia            -  Terek
-  Amkar               -  CSKA
+  Zenit               1-1  Ufa
+  Mordovia            0-0  Terek
+  Amkar               2-0  CSKA
 [Fri. 04.12.]
   Kuban               -  Krasnodar
   Lokomotiv           -  Ural
@@ -48,13 +48,13 @@ Matchday 18
 Matchday 19
 
 []
-  Ufa                 -  Mordovia
+  Krylia Sovetov      -  Rostov
   CSKA                -  Spartak
   Ural                -  Dinamo
-  Rubin               -  Kuban
-  Krylia Sovetov      -  Rostov
+  Ufa                 -  Mordovia
   Terek               -  Lokomotiv
   Krasnodar           -  Zenit
+  Rubin               -  Kuban
   Anzhi               -  Amkar
 
 
