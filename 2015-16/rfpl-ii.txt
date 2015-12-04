@@ -38,24 +38,24 @@ Matchday 18
   Mordovia            0-0  Terek
   Amkar               2-0  CSKA
 [Fri. 04.12.]
-  Kuban               -  Krasnodar
-  Lokomotiv           -  Ural
-  Dinamo              -  Anzhi
-  Rostov              -  Rubin
-  Spartak             -  Krylia Sovetov
+  Kuban               2-3  Krasnodar
+  Lokomotiv           2-2  Ural
+  Dinamo              1-2  Anzhi
+  Rostov              1-0  Rubin
+  Spartak             1-0  Krylia Sovetov
 
 
 Matchday 19
 
 []
   Krylia Sovetov      -  Rostov
-  CSKA                -  Spartak
-  Ural                -  Dinamo
-  Ufa                 -  Mordovia
   Terek               -  Lokomotiv
+  Ural                -  Dinamo
+  Anzhi               -  Amkar
+  Ufa                 -  Mordovia
+  CSKA                -  Spartak
   Krasnodar           -  Zenit
   Rubin               -  Kuban
-  Anzhi               -  Amkar
 
 
 Matchday 20
