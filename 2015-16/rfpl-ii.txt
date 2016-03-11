@@ -47,41 +47,48 @@ Matchday 18
 
 Matchday 19
 
-[]
-  Krylia Sovetov      -  Rostov
-  Terek               -  Lokomotiv
-  Ural                -  Dinamo
-  Anzhi               -  Amkar
-  Ufa                 -  Mordovia
-  CSKA                -  Spartak
-  Krasnodar           -  Zenit
-  Rubin               -  Kuban
+[Sat. 05.03.]
+  Krylia Sovetov      0-1  Rostov
+  Krasnodar           0-0  Zenit
+  Rubin               1-0  Kuban
+[Sun. 06.03.]
+  Terek               2-1  Lokomotiv
+  Ufa                 1-1  Mordovia
+  CSKA                1-0  Spartak
+[Mon. 07.03.]
+  Ural                1-1  Dinamo
+  Anzhi               0-1  Amkar
 
 
 Matchday 20
 
-[]
+[Fri. 11.03.]
+  Kuban               1-0  Krylia Sovetov
+[Sat. 12.03.]
   Spartak             -  Amkar
-  Mordovia            -  Krasnodar
-  Zenit               -  Rubin
-  Dinamo              -  Terek
-  Lokomotiv           -  Ufa
-  Kuban               -  Krylia Sovetov
   Ural                -  Anzhi
   Rostov              -  CSKA
+[Sun. 13.03.]
+  Mordovia            -  Krasnodar
+  Zenit               -  Rubin
+  Lokomotiv           -  Ufa
+[Mon. 14.03.]
+  Dinamo              -  Terek
 
 
 Matchday 21
 
-[]
+[Fri. 18.03.]
+  Amkar               -  Rostov
+  Anzhi               -  Spartak
+[Sat. 19.03.]
   Ufa                 -  Dinamo
+  CSKA                -  Kuban
+  Terek               -  Ural
+[Sun. 20.03.]
   Krasnodar           -  Lokomotiv
   Rubin               -  Mordovia
   Krylia Sovetov      -  Zenit
-  CSKA                -  Kuban
-  Amkar               -  Rostov
-  Anzhi               -  Spartak
-  Terek               -  Ural
 
 
 Matchday 22
