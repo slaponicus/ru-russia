@@ -65,8 +65,8 @@ Matchday 20
 [Fri. 11.03.]
   Kuban               2-0  Krylia Sovetov
 [Sat. 12.03.]
-  Spartak             -  Amkar
-  Ural                -  Anzhi
+  Spartak             0-1  Amkar
+  Ural                4-2  Anzhi
   Rostov              -  CSKA
 [Sun. 13.03.]
   Mordovia            -  Krasnodar
@@ -146,8 +146,8 @@ Matchday 25
 Matchday 26
 
 []
-  Terek               -  Krylia Sovetov
   Zenit               -  Kuban
+  Terek               -  Krylia Sovetov
   Dinamo              -  Amkar
   Ural                -  CSKA
   Krasnodar           -  Anzhi
