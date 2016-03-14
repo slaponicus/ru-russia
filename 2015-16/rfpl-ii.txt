@@ -73,7 +73,7 @@ Matchday 20
   Zenit               4-2  Rubin
   Lokomotiv           2-0  Ufa
 [Mon. 14.03.]
-  Dinamo              -  Terek
+  Dinamo              0-1  Terek
 
 
 Matchday 21
@@ -146,8 +146,8 @@ Matchday 25
 Matchday 26
 
 []
-  Terek               -  Krylia Sovetov
   Zenit               -  Kuban
+  Terek               -  Krylia Sovetov
   Dinamo              -  Amkar
   Ural                -  CSKA
   Krasnodar           -  Anzhi
