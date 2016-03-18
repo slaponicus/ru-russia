@@ -79,8 +79,8 @@ Matchday 20
 Matchday 21
 
 [Fri. 18.03.]
-  Amkar               -  Rostov
-  Anzhi               -  Spartak
+  Amkar               0-0  Rostov
+  Anzhi               0-1  Spartak
 [Sat. 19.03.]
   Ufa                 -  Dinamo
   CSKA                -  Kuban
@@ -93,103 +93,119 @@ Matchday 21
 
 Matchday 22
 
-[]
-  Zenit               -  CSKA
+[Sat. 02.04.]
   Kuban               -  Amkar
   Rostov              -  Spartak
   Ural                -  Ufa
-  Dinamo              -  Krasnodar
-  Lokomotiv           -  Rubin
   Terek               -  Anzhi
+[Sun. 03.04.]
+  Zenit               -  CSKA
+  Lokomotiv           -  Rubin
   Mordovia            -  Krylia Sovetov
+[Mon. 04.04.]
+  Dinamo              -  Krasnodar
 
 
 Matchday 23
 
-[]
+[Fri. 08.04.]
   Anzhi               -  Rostov
-  Spartak             -  Kuban
+[Sat. 09.04.]
   Amkar               -  Zenit
-  Ufa                 -  Terek
-  Krylia Sovetov      -  Lokomotiv
   CSKA                -  Mordovia
-  Krasnodar           -  Ural
   Rubin               -  Dinamo
+[Sun. 10.04.]
+  Spartak             -  Kuban
+  Ufa                 -  Terek
+  Krasnodar           -  Ural
+[Mon. 11.04.]
+  Krylia Sovetov      -  Lokomotiv
 
 
 Matchday 24
 
-[]
-  Kuban               -  Rostov
+[Fri. 15.04.]
   Mordovia            -  Amkar
+[Sat. 16.04.]
   Zenit               -  Spartak
   Lokomotiv           -  CSKA
+  Terek               -  Krasnodar
+[Sun. 17.04.]
+  Kuban               -  Rostov
   Ufa                 -  Anzhi
   Dinamo              -  Krylia Sovetov
+[Mon. 18.04.]
   Ural                -  Rubin
-  Terek               -  Krasnodar
 
 
 Matchday 25
 
-[]
-  Rostov              -  Zenit
+[Sat. 23.04.]
   Spartak             -  Mordovia
-  Anzhi               -  Kuban
+  Rubin               -  Terek
+  Krylia Sovetov      -  Ural
+[Sun. 24.04.]
+  Rostov              -  Zenit
   Amkar               -  Lokomotiv
   CSKA                -  Dinamo
   Krasnodar           -  Ufa
-  Rubin               -  Terek
-  Krylia Sovetov      -  Ural
+[Mon. 25.04.]
+  Anzhi               -  Kuban
 
 
 Matchday 26
 
-[]
-  Zenit               -  Kuban
-  Terek               -  Krylia Sovetov
+[Fri. 29.04.]
   Dinamo              -  Amkar
+[Sat. 30.04.]
+  Zenit               -  Kuban
   Ural                -  CSKA
+  Lokomotiv           -  Spartak
+[Sun. 01.05.]
+  Terek               -  Krylia Sovetov
   Krasnodar           -  Anzhi
   Ufa                 -  Rubin
   Mordovia            -  Rostov
-  Lokomotiv           -  Spartak
 
 
 Matchday 27
 
-[]
+[Fri. 06.05.]
+  Rostov              -  Lokomotiv
+  Krylia Sovetov      -  Ufa
+[Sat. 07.05.]
   Anzhi               -  Zenit
   Kuban               -  Mordovia
-  Rostov              -  Lokomotiv
+  CSKA                -  Terek
+  Rubin               -  Krasnodar
+[Sun. 08.05.]
   Spartak             -  Dinamo
   Amkar               -  Ural
-  CSKA                -  Terek
-  Krylia Sovetov      -  Ufa
-  Rubin               -  Krasnodar
 
 
 Matchday 28
 
-[]
-  Terek               -  Amkar
-  Ural                -  Spartak
+[Wed. 11.05.]
   Rubin               -  Anzhi
   Ufa                 -  CSKA
   Mordovia            -  Zenit
-  Dinamo              -  Rostov
   Lokomotiv           -  Kuban
   Krasnodar           -  Krylia Sovetov
+[Thu. 12.05.]
+  Terek               -  Amkar
+  Ural                -  Spartak
+  Dinamo              -  Rostov
 
 
 Matchday 29
 
-[]
+[Sun. 15.05.]
   Anzhi               -  Mordovia
-  Rostov              -  Ural
   Zenit               -  Lokomotiv
-  Kuban               -  Dinamo
   Krylia Sovetov      -  Rubin
+[Mon. 16.05.]
+  Rostov              -  Ural
+  Kuban               -  Dinamo
   Spartak             -  Terek
   CSKA                -  Krasnodar
   Amkar               -  Ufa
@@ -197,7 +213,7 @@ Matchday 29
 
 Matchday 30
 
-[]
+[Sat. 21.05.]
   Ural                -  Kuban
   Dinamo              -  Zenit
   Lokomotiv           -  Mordovia
