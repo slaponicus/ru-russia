@@ -101,9 +101,9 @@ Matchday 22
 [Sun. 03.04.]
   Zenit               -  CSKA
   Lokomotiv           -  Rubin
-  Mordovia            -  Krylia Sovetov
 [Mon. 04.04.]
   Dinamo              -  Krasnodar
+  Mordovia            -  Krylia Sovetov
 
 
 Matchday 23
