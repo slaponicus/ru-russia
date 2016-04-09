@@ -38,8 +38,8 @@ Matchday 18
   Mordovia            0-0  Terek
   Amkar               2-0  CSKA
 [Fri. 04.12.]
-  Kuban               2-3  Krasnodar
   Lokomotiv           2-2  Ural
+  Kuban               2-3  Krasnodar
   Dinamo              1-2  Anzhi
   Rostov              1-0  Rubin
   Spartak             1-0  Krylia Sovetov
@@ -111,8 +111,8 @@ Matchday 23
 [Fri. 08.04.]
   Anzhi               0-0  Rostov
 [Sat. 09.04.]
-  Amkar               -  Zenit
-  CSKA                -  Mordovia
+  Amkar               0-1  Zenit
+  CSKA                7-1  Mordovia
   Rubin               -  Dinamo
 [Sun. 10.04.]
   Spartak             -  Kuban
