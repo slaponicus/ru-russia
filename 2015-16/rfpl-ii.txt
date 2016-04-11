@@ -38,8 +38,8 @@ Matchday 18
   Mordovia            0-0  Terek
   Amkar               2-0  CSKA
 [Fri. 04.12.]
-  Lokomotiv           2-2  Ural
   Kuban               2-3  Krasnodar
+  Lokomotiv           2-2  Ural
   Dinamo              1-2  Anzhi
   Rostov              1-0  Rubin
   Spartak             1-0  Krylia Sovetov
@@ -119,7 +119,7 @@ Matchday 23
   Ufa                 1-0  Terek
   Krasnodar           6-0  Ural
 [Mon. 11.04.]
-  Krylia Sovetov      -  Lokomotiv
+  Krylia Sovetov      0-0  Lokomotiv
 
 
 Matchday 24
