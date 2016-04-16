@@ -129,7 +129,7 @@ Matchday 24
 [Sat. 16.04.]
   Zenit               -  Spartak
   Lokomotiv           -  CSKA
-  Terek               -  Krasnodar
+  Terek               0-1  Krasnodar
 [Sun. 17.04.]
   Kuban               -  Rostov
   Ufa                 -  Anzhi
