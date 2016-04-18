@@ -34,12 +34,12 @@ Matchday 17
 Matchday 18
 
 [Thu. 03.12.]
-  Zenit               1-1  Ufa
   Mordovia            0-0  Terek
+  Zenit               1-1  Ufa
   Amkar               2-0  CSKA
 [Fri. 04.12.]
-  Kuban               2-3  Krasnodar
   Lokomotiv           2-2  Ural
+  Kuban               2-3  Krasnodar
   Dinamo              1-2  Anzhi
   Rostov              1-0  Rubin
   Spartak             1-0  Krylia Sovetov
@@ -135,7 +135,7 @@ Matchday 24
   Ufa                 2-0  Anzhi
   Dinamo              0-1  Krylia Sovetov
 [Mon. 18.04.]
-  Ural                -  Rubin
+  Ural                0-1  Rubin
 
 
 Matchday 25
