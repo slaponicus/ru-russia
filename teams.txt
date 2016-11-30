@@ -1,8 +1,11 @@
-arsenal,Arsenal|Arsenal Tula,city:Tula
+arsenaltula,Arsenal Tula|Arsenal,city:Tula
+
 amkar,Amkar|Amkar Perm,city:Perm
 anzhi,Anzhi|Anzhi Makhachkala,city:Makhachkala
 cska,CSKA|PFK TsSKA|CSKA Moscow,city:Moscow
-dynamo,Dynamo|Dinamo-Moskva|Dinamo|Dynamo Moscow|Dinamo Moscow,city:Moscow
+
+dynamo,Dynamo Moscow|Dynamo|Dinamo-Moskva|Dinamo|Dinamo Moscow,city:Moscow
+
 krasnodar,Krasnodar|Krasnodar Krasnodar,city:Krasnodar
 krylia,Krylia Sovetov|Kryl'ia Sovetov|Krylia Sovetov Samara,city:Samara
 kuban,Kuban|Kuban'|Kuban Krasnodar,city:Krasnodar
