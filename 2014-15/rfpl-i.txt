@@ -95,7 +95,7 @@ Matchday 6
 Matchday 7
 
 [Sat. 13.09.]
-  CSKA                2-1  Arsenal
+  CSKA                2-1  Arsenal Tula
   Zenit               3-2  Dinamo
   Rostov              1-2  Rubin
   Lokomotiv           1-1  Mordovia
@@ -110,7 +110,7 @@ Matchday 7
 Matchday 8
 
 [Fri. 19.09.]
-  Arsenal             0-1  Mordovia
+  Arsenal Tula        0-1  Mordovia
 [Sat. 20.09.]
   Ufa                 0-1  Ural
   Rostov              0-5  Zenit
@@ -132,7 +132,7 @@ Matchday 9
 [Sun. 28.09.]
   Dinamo              2-2  Kuban
   Lokomotiv           3-1  Amkar
-  Krasnodar           3-0  Arsenal
+  Krasnodar           3-0  Arsenal Tula
   Terek               2-1  Rostov
 [Mon. 29.09.]
   Rubin               2-1  Torpedo
@@ -146,7 +146,7 @@ Matchday 10
   Lokomotiv           2-1  Terek
 [Sun. 19.10.]
   Ural                2-0  Spartak
-  Arsenal             1-1  Rostov
+  Arsenal Tula        1-1  Rostov
 [Mon. 20.10.]
   Ufa                 1-1  Torpedo
   Rubin               5-0  Mordovia
@@ -157,7 +157,7 @@ Matchday 10
 Matchday 11
 
 [Fri. 24.10.]
-  Ural                1-0  Arsenal
+  Ural                1-0  Arsenal Tula
 [Sat. 25.10.]
   Amkar               2-0  Rostov
   Torpedo             0-0  Kuban
@@ -181,7 +181,7 @@ Matchday 12
   Mordovia            2-1  Krasnodar
   Kuban               3-3  Spartak
 [Mon. 03.11.]
-  Torpedo             0-1  Arsenal
+  Torpedo             0-1  Arsenal Tula
   Rubin               1-1  Amkar
   Terek               1-0  Ufa
 
@@ -198,7 +198,7 @@ Matchday 13
   Dinamo              1-0  CSKA
   Ufa                 0-0  Rostov
   Krasnodar           2-0  Rubin
-  Spartak             2-0  Arsenal
+  Spartak             2-0  Arsenal Tula
 
 
 Matchday 14
@@ -210,7 +210,7 @@ Matchday 14
   Zenit               1-0  Kuban
 [Sun. 23.11.]
   Dinamo              3-0  Terek
-  Arsenal             4-0  Amkar
+  Arsenal Tula        4-0  Amkar
   Spartak             4-2  Mordovia
 [Mon. 24.11.]
   Lokomotiv           0-0  Ufa
@@ -221,7 +221,7 @@ Matchday 15
 [Fri. 28.11.]
   Rostov              1-1  Amkar
 [Sat. 29.11.]
-  Arsenal             1-2  Ural
+  Arsenal Tula        1-2  Ural
   CSKA                5-0  Ufa
   Mordovia            1-0  Zenit
   Kuban               1-1  Torpedo
