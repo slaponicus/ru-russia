@@ -6,7 +6,7 @@ Matchday 1
   Rubin               0-4  Spartak
 [Sat. 02.08.]
   Ural                2-3  Mordovia
-  Arsenal             0-4  Zenit
+  Arsenal Tula        0-4  Zenit
   CSKA                4-1  Torpedo
 [Sun. 03.08.]
   Dinamo              7-3  Rostov
@@ -28,7 +28,7 @@ Matchday 2
 [Sun. 10.08.]
   Dinamo              1-2  Spartak
   Ural                1-1  Krasnodar
-  Arsenal             0-2  Lokomotiv
+  Arsenal Tula        0-2  Lokomotiv
 
 
 Matchday 3
@@ -38,7 +38,7 @@ Matchday 3
 [Wed. 13.08.]
   Ufa                 0-2  Dinamo
   Ural                1-2  Zenit
-  Arsenal             0-0  Rubin
+  Arsenal Tula        0-0  Rubin
   CSKA                1-0  Terek
 [Thu. 14.08.]
   Lokomotiv           2-1  Rostov
@@ -54,7 +54,7 @@ Matchday 4
   Zenit               1-0  Ufa
 [Sun. 17.08.]
   CSKA                0-1  Spartak
-  Arsenal             1-2  Dinamo
+  Arsenal Tula        1-2  Dinamo
   Rubin               1-1  Lokomotiv
   Rostov              0-2  Krasnodar
 [Mon. 18.08.]
@@ -65,7 +65,7 @@ Matchday 4
 Matchday 5
 
 [Fri. 22.08.]
-  Terek               3-0  Arsenal
+  Terek               3-0  Arsenal Tula
 [Sat. 23.08.]
   Ufa                 1-2  Spartak
   Zenit               2-0  Amkar
@@ -84,7 +84,7 @@ Matchday 6
 [Sat. 30.08.]
   Mordovia            1-0  Torpedo
   Amkar               2-0  Spartak
-  Arsenal             0-1  Kuban
+  Arsenal Tula        0-1  Kuban
 [Sun. 31.08.]
   CSKA                6-0  Rostov
   Rubin               1-1  Ufa
